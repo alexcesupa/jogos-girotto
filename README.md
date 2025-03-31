@@ -56,7 +56,7 @@ void jogar_gousmas() {
     Gousma jogador1[MAX_GOUSMAS], jogador2[MAX_GOUSMAS];
     int turno = 1;
     int opcao, gousma_atacante, gousma_defensora;
-
+    
     inicializar_jogador(jogador1);
     inicializar_jogador(jogador2);
 
